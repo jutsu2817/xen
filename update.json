@@ -1,10 +1,10 @@
 {
   "new_app": {
-    "enabled": false,
+    "enabled": true,
     "packages": ["com.xeno.gfx"],
     "title": "A new app is available",
     "message": "Try our new app for the latest features and improvements.",
-    "link": "https://",
+    "link": "https://vt.tiktok.com/ZSpYuKrXK/",
     "button_text": "Open app",
     "cancel_button_text": "Later",
     "show_cancel_button": false,
