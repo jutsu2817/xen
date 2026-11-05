@@ -8,6 +8,6 @@
     "button_text": "Open app",
     "cancel_button_text": "Later",
     "show_cancel_button": false,
-    "cancelable": true
+    "cancelable": false
   }
 }
