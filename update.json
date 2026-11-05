@@ -1,1 +1,13 @@
-# xen
+{
+  "new_app": {
+    "enabled": false,
+    "packages": ["com.xeno.gfx"],
+    "title": "A new app is available",
+    "message": "Try our new app for the latest features and improvements.",
+    "link": "https://",
+    "button_text": "Open app",
+    "cancel_button_text": "Later",
+    "show_cancel_button": false,
+    "cancelable": true
+  }
+}
